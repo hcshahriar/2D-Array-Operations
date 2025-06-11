@@ -6,6 +6,7 @@
 A 2D array (or matrix) is a grid-like data structure that stores elements in rows and columns, just like a spreadsheet or a chessboard! It’s a fundamental concept in programming, used in everything from game development (like board games and graphics) to scientific computing (like image processing and machine learning).  
 
 2.Why Are They Important?
+
 ✅ Versatile – Represent grids, tables, images, and more!  
 ✅ Efficient – Access and manipulate data in structured ways.  
 ✅ Foundational – Essential for algorithms in AI, graphics, and simulations.  
