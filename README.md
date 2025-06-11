@@ -12,12 +12,14 @@ A 2D array (or matrix) is a grid-like data structure that stores elements in row
 ✅ Foundational – Essential for algorithms in AI, graphics, and simulations.  
 
 3.What Can You Do with 2D Arrays?
+
 ✨ Matrix Operations (Addition, Multiplication, Transpose)  
 ✨ Game Boards (Chess, Tic-Tac-Toe, Sudoku)  
 ✨ Image Processing (Pixels are stored as 2D arrays!)  
 ✨ Graph Algorithms (Adjacency matrices for networks)  
 
 🚀 Check Out My GitHub Repository!
+
 I’ve created a Python toolkit with ready-to-use functions for 2D array operations, including:  
 - Matrix creation & printing
 - Mathematical operations (+,×,transpose,rotation) 
